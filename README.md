@@ -64,7 +64,7 @@ This app will give a suggestion of food, exercise, treatment, nearby resturents 
  
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://drive.google.com/uc?export=view&id=1vd1scTRGYcdYA1rK" width=600>
+<img src="https://drive.google.com/uc?export=view&id=1vd1scTRGYcdYA1rK6qNVDxhnozjXq4KW" width=600>
  
 ### [BONUS] Digital Wireframes & Mockups
  
