@@ -74,6 +74,15 @@ This app will give a suggestion of food, exercise, treatment, nearby resturents 
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+| Property       | Type      | Description                 |
+| -------------- | --------- | --------------------------- |
+| Username       |  String   | Unique name for user        |
+| Password       |  String   | Password for user, hashed   |
+| Email          |  String   | Email of the user, url      |
+| Image          |  Image    | Image                       |
+| Like Count     |  Integer  | # times user clicks like    |
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
